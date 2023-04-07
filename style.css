@@ -1,19 +1,19 @@
 .bg-img1 {
     background-color: #000;
     background-size: cover;
-    background-image: url(img/bg-img1.jpg);
+    background-image: url(bg-img1.jpg);
 }
 
 .bg-img2 {
     background-color: #000;
     background-size: cover;
-    background-image: url(img/bg-img2.jpg);
+    background-image: url(bg-img2.jpg);
 }
 
 .bg-img3 {
     background-color: #000;
     background-size: cover;
-    background-image: url(img/bg-img3.jpg);
+    background-image: url(bg-img3.jpg);
 }
 
 .carousel-item {
